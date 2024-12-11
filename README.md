@@ -12,5 +12,5 @@
 - Kardus
 
 ## Note
-- Usahakan saat testing menggunakan data yang diambil sendiri di sekitar (jangan dari internet).
+- Hanya untuk Eksperimen
 
