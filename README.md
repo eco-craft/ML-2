@@ -12,5 +12,6 @@
 - Kardus
 
 ## Note
-- Hanya untuk Eksperimen
+- THIS IS NOT OUR MODEL IT IS JUST EXPERIMENTAL MODEL
+  
 
